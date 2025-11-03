@@ -1,12 +1,12 @@
 ---
-layout: feed
+layout: null
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
 	<title>Eric Stein</title>
-	<link href="https://steinea.ca/_posts/atom.xml" rel="self"/>
+	<link href="https://steinea.ca/feed/" rel="self"/>
 	<link href="https://steinea.ca/"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>https://steinea.ca/</id>
