@@ -61,7 +61,7 @@
     <!-- Page Content -->
     <div id="content" class="e-content">
 
-      <br>
+      {% if page.category contains "post" %}<br>{% endif %}
 
       {{ content }}
 
