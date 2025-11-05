@@ -1,5 +1,6 @@
 ---
 layout: null
+permalink: /feed.xml
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -7,7 +8,7 @@ layout: null
 
 	<title>Eric Stein / Writing</title>
 	<link href="https://steinea.ca/"/>
-	<link href="https://steinea.ca/feed/" rel="self" type="application/atom+xml"/>
+	<link href="https://steinea.ca/feed.xml" rel="self" type="application/atom+xml"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>https://steinea.ca/</id>
 	<author>
