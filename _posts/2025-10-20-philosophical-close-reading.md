@@ -13,7 +13,7 @@ There is one real. Naive contact with the real makes philosophy possible---touch
 
 The twentieth century French philosophers and their successors are at work on a metaphysical research program (Blake[^6]). As a fundamentally plural program, concerned with the multiplicity of the singular real, no one "master" holds the key. Any momentary intuition can help elucidate the whole, and can also be revised or discarded if better intuitions come along.
 
-Close reading affords precision and depth. Summative breadth is the lure of the expert (Certeau[^7]). Insofar as we are all in touch with the real, we are all "scientists" (Laruelle[^8]), we are all "artists" (Ranciere[^9]), and indeed, we are all philosophers.
+Close reading affords precision and depth. Summative breadth is the lure of the expert (Certeau[^7]). Insofar as we are all in touch with the real, we are all "scientists" (Laruelle[^8]), we are all "artists" (Ranciere[^9]), we are all philosophers.
 
 <br>
 
