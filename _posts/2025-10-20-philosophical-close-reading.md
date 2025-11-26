@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-subcategory: questions
+subcategory: intermezzo
 title: Philosophical Close Reading
 subtitle:
 date: 2025-10-20
