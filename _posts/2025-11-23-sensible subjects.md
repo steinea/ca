@@ -137,7 +137,7 @@ This argument forms the kernel of Deleuze's "transcendental empiricism."[^54] Qu
 [^62]: Deleuze, *Empiricism and Subjectivity*, 84. See also Chapter 3, 32: "the only possible theory is a theory of practice: with respect to the understanding, we have the calculation of probabilities and general rules; with respect to morality and the passions, we have general rules and justice."
 [^63]: Deleuze, *Empiricism and Subjectivity*, 84.
 [^64]: Deleuze, *Empiricism and Subjectivity*, 84.
-[^65]: Deleuze, *Difference and Repetition*, 8; Gilles Deleuze and Félix Guattari, *A Thousand Plateaus: Capitalism and Schizophrenia*, 1980, trans. Brian Massumi (Minneapolis, MN: University of Minnesota Press), 1987, 25.
+[^65]: Deleuze, *Difference and Repetition*, 8; Gilles Deleuze and Félix Guattari, *A Thousand Plateaus: Capitalism and Schizophrenia*, 1980, trans. Brian Massumi (Minneapolis, MN: University of Minnesota Press, 1987), 25.
 
 We find ourselves "always in the middle, between things, interbeing, *intermezzo*," contradiction as "conjunction," "and ... and ... and," beginning never from a "clean slate" or "ground zero," but from the "middle," more and less than beginning, always "coming and going rather than starting and finishing."[^66] To cite another text, this is where we find ourselves, in finding that "something already was going on," that "the response is already there before the call goes out," that we are "already in something."[^67] Thus spoke Zarathustra: *whatever you will, will it in such a manner that you also will its eternal return*.[^68] Begin again, begin right here, in the thick of things, just as you always have.
 
