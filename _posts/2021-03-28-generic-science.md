@@ -83,6 +83,6 @@ The additional claim that I made with respect to the Pythagoreans was that, in t
 [^37]: Merleau-Ponty terms this communication "naïve contact." See *Phenomenology of Perception*, lxx.
 [^38]: Alexander Galloway, "Superpositions," *Culture and Communication*, October 11, 2014, <http://cultureandcommunication.org/galloway/superpositions>.
 [^39]: Bourriaud, *The Exform*, 21.
-[^40]: Eric Stein, "Pure Indetermination," March 5, 2021, <https://steinea.github.io/notes/2021/03/05/pure-indetermination>.
+[^40]: Eric Stein, "Pure Indetermination," March 5, 2021, <https://steinea.ca/2021/03/05/pure-indetermination>.
 [^41]: Aristotle, Metaphysics, 985b23-986a26, in Waterfield, The First Philosophers, 102.
 [^42]: Of Laruelle, Galloway writes: "what Laruelle calls generic science also comes under another name, I think. No longer philosophy, but 'theory.' Philosophy is always inflationary and maximalist. Even the most hard-nosed skeptics are philosophical because they remain sufficient unto themselves---this is skepticism as an “adequate” response to the problems of thinking. By contrast, theory creates a *minimalism* in thought. Theory is a rigorous science of the inadequacy of material life." See *Superpositions*, 2014.
