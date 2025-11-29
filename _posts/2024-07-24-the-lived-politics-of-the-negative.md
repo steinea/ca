@@ -10,7 +10,9 @@ toc: true
 
 #### Citation
 
-To be published.
+Stein, Eric, wendi yu, Gabriel Caetano Barbosa, Vitor Mattos, and Cezar Capacle. "The Lived Politics of the Negative: Tabletop Game Designers on Punk, Practice, and Utopia." Generation Analog, Online, 2024. <https://doi.org/10.5281/zenodo.17756253>.
+
+*Mirrors: [KCWorks](https://works.hcommons.org/records/7zjq8-t7p02), [PhilPapers](https://philpapers.org/rec/STETLP-7), [ResearchGate](https://www.researchgate.net/publication/398096320), [Zotero](https://www.zotero.org/steinea#HFNANHFA)*
 
 <br>
 
@@ -19,7 +21,7 @@ To be published.
 
 Contra the capture of the radical impulse by the homogenizing marketing label ‘hopepunk’, this panel conceives of punk instead as ‘the lived politics of the negative’ (Muñoz, 2013). From this position, tabletop game play and design become potent refusals of the co-opting forces of the Global North, and concrete means for imagining and indeed realizing an outside and an afterward to the present crises shaping the conditions of our planetary existence. This panel mounts a challenge to colonial capitalist hegemony through the words and practices of four tabletop game designers, blending craft, theory, and experience to articulate a pluralistic and ethical vision of a punk at home and flourishing in the ruins of this crumbling world.
 
-*Keywords: Game Studies, Tabletop Roleplaying, Politics, Ethics, Punk, Negation*
+*Keywords: Game Studies, Game Design, Tabletop Roleplaying, Analog Games, Punk, Utopia*
 
 <br>
 
