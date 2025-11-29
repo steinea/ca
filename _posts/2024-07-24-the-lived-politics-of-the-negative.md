@@ -70,7 +70,7 @@ Having quickly sketched out this theoretical foundation, it is time to turn to t
 [^23]: See "Prizes!" in the community forum for *Applied Hope: The Solarpunk and Utopias Jam*, January 15, 2022, <https://itch.io/jam/applied-hope/topic/1867893/prizes>.
 [^24]: Caetano, *Roots & Flowers*, 5 and yu, *Marvelous Mutations & Merry Musicians!* 4.
 
-***
+<br>
 
 The full panel, moderated by Aaron Trammell on July 24, 2024, can be viewed on the Analog Game Studies YouTube channel.[^25]
 
