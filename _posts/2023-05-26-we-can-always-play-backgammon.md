@@ -54,7 +54,7 @@ The mind and its ideas---the "imagination"---must, as a consequence, be "somethi
 The three principles of association---"contiguity, resemblance, and causality"---are the basic functions that "organize the given into a system, imposing constancy on the imagination," and that "fix and naturalize the mind."[^17] This organization should not be talked about in terms of causes, only "effects."[^18] One cannot presuppose an agency behind their functioning---"nothing is ever transcendental"---but only "scrutinize" their outcomes, analyze and describe them.[^19] The relations instituted by the principles of association are, importantly, "external to their terms," without necessity.[^20] It is the very lightness of this exteriority that gives these relations a kind of substance, by virtue of repeated "easy transition" between terms.[^21] In following these pathways, the mind comes to acquire a "*tendency*," a "disposition[]," a habit---subjectivity itself is seen to be "an effect."[^22] Belief, then, is the subject's fidelity to the effect of its own formation.
 
 [^17]: Deleuze, *Empiricism and Subjectivity*, 23.
-[^18]: Deleuze, *Empiricism and Subjectivity*, 23.
+[^18]: Deleuze, *Empiricism and Subjectivity*, 25.
 [^19]: Deleuze, *Empiricism and Subjectivity*, 23, 24.
 [^20]: Deleuze, *Empiricism and Subjectivity*, x.
 [^21]: Deleuze, *Empiricism and Subjectivity*, 24.
