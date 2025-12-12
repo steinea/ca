@@ -3,7 +3,7 @@ layout: post
 category: post
 subcategory: juvenilia-3
 title: Imagined Agency
-subtitle: "Review of Stefano Gualeni and Riccardo Fassone’s <em>Imagined Agency: A Philosophy of Worldbuilding and Imaginary Play</em>"
+subtitle: "Review of Stefano Gualeni and Riccardo Fassone’s <em>Fictional Games: A Philosophy of Worldbuilding and Imaginary Play</em>"
 date: 2023-05-26
 toc: true
 ---
