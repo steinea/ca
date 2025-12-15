@@ -70,10 +70,6 @@ In a manifold of pure difference, time is "the perceptible succession of changin
 [^37]: Recent debates in physics on the nature of space-time are illuminating, here. Sean Carroll, amongst others, is "quite confident that space-time is emergent. It arises fairly robustly from the mutual requirements of quantum mechanics and gravity." See "The Unraveling of Space-Time," *Quanta Magazine*, September 25, 2024, <https://www.quantamagazine.org/the-unraveling-of-space-time-20240925/>. Similarly, the concepts of "mass" and "length" may also be emergent. See Natalie Wolchover, "At Multiverse Impasse, a New Theory of Scale," *Quanta Magazine*, August 18, 2014, <https://www.quantamagazine.org/to-avoid-the-multiverse-physicists-propose-a-symmetry-of-scales-20140818/>.
 [^38]: And indeed, it is Deleuze's first attempt to break out of the correlationist circle, to *think what is, whether humanity is or not*.
 
-Over the remaining pages of Chapter 5, Deleuze takes up the question of the subject yet again: "what do we mean when we speak of the subject?"[^39] This time, however, he approaches the subject from the outside, from the perspective of the *principles*. These pages go deep on Humean minutiae, so for our purposes we will wrap up discussion here. Deleuze will perform yet another repetition of this argument in Chapter 6, but will do a better job situating it in the broader philosophical context. It is to this argument that we turn next time.
-
-[^39]: Deleuze, *Empiricism and Subjectivity*, 92.
-
 <br>
 
 
