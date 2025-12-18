@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-subcategory: field-notes-3
+subcategory: intermezzo
 title: Theory of Priority
 subtitle: A Short Lesson
 date: 2025-07-10
