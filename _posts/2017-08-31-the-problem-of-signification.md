@@ -131,7 +131,7 @@ For Eco, then, the "sign as the locus \... for the semiosic process," which is t
 
 Eco, Umberto. *Semiotics and the Philosophy of Language*. Indiana University Press, 1984.
 
-Greimas, A. J. "On Meaning." 1985. Translated by Paul Perron and Frank Collins, *Yale French Studies*, no. 41, 1989, 539-550.
+Greimas, A. J. "On Meaning." 1985. Translated by Paul Perron and Frank Collins, *New Literary History* 20, no.3 (Spring 1989): 539-550.
 
 ---. *Structural Semantics*. 1966. Translated by Daniele McDowell, et al., University of Nebraska Press, 1983.
 
