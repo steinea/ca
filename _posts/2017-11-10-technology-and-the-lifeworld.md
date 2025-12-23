@@ -40,7 +40,7 @@ In chapter one, "From Garden to Earth," Ihde responds to the first question, and
 [^740]: Ihde, *Technology and the Lifeworld*, 17.
 [^741]: Ihde, *Technology and the Lifeworld*, 17.
 
-The key to "perceptual, bodily experience" as our "relation to an environment" is in the phenomenological notion of *intentionality*: "all experience is experience of *something* \... experience is referential."[^742] Experience is not something locked in the head, not a Cartesian theatre of the mind, but *out there*. Thus, the "*primitive* of the system" is not some mental content or representation, but "a set of relations: I\-\--relation\-\--world."[^743] Such a conception of the world is, for Ihde, a "*relativistic ontology*" and a "*philosophical ecology*," but this is in no way to say that it is a "*relativism*."[^744] There are "limits" to the "relativistic context of relations," *I* and *world*, but phenomenology is "*rigorously* relativistic"; it does not attempt a reduction to *either* term as essential or foundational.[^745] Rather, both are always structured together. The fact of this *structuring* precludes any reification of "technologies into Technology," and presumption of the "neutrality of technologies."[^746] Reification would be to make "Technology" primary, absolute, monolithic; the presumption of neutrality would be to make the same of the perceiving subject. Instead, what is needed is a phenomenological account that "preserve\[s\] in the analysis something of the dynamic or actional sense that obtains in human-technology relations."[^747] There is always *reciprocal* determination at work in the intentional fold. For this reason, Ihde argues that technologies are "normative," "actional," and "*structural*."[^748] *Norms* and *praxes* are structured into the lifeworld, and cannot be ignored.
+The key to "perceptual, bodily experience" as our "relation to an environment" is in the phenomenological notion of *intentionality*: "all experience is experience of *something* \... experience is referential."[^742] Experience is not something locked in the head, not a Cartesian theatre of the mind, but *out there*. Thus, the "*primitive* of the system" is not some mental content or representation, but "a set of relations: I---relation---world."[^743] Such a conception of the world is, for Ihde, a "*relativistic ontology*" and a "*philosophical ecology*," but this is in no way to say that it is a "*relativism*."[^744] There are "limits" to the "relativistic context of relations," *I* and *world*, but phenomenology is "*rigorously* relativistic"; it does not attempt a reduction to *either* term as essential or foundational.[^745] Rather, both are always structured together. The fact of this *structuring* precludes any reification of "technologies into Technology," and presumption of the "neutrality of technologies."[^746] Reification would be to make "Technology" primary, absolute, monolithic; the presumption of neutrality would be to make the same of the perceiving subject. Instead, what is needed is a phenomenological account that "preserve\[s\] in the analysis something of the dynamic or actional sense that obtains in human-technology relations."[^747] There is always *reciprocal* determination at work in the intentional fold. For this reason, Ihde argues that technologies are "normative," "actional," and "*structural*."[^748] *Norms* and *praxes* are structured into the lifeworld, and cannot be ignored.
 
 [^742]: Ihde, *Technology and the Lifeworld*, 22.
 [^743]: Ihde, *Technology and the Lifeworld*, 23.
@@ -96,14 +96,14 @@ At this point in the review, the radicality of Ihde's claims that I asserted abo
 
 [^779]: Ihde, *Technology and the Lifeworld*, 72.
 
-C>Variant 1, Embodiment Relations  
-C>(I-technology)-World
+Variant 1, Embodiment Relations  
+<br>(I-technology)-World
 
-C>Variant 2, Hermeneutic Relations  
-C>I-(technology-World)
+Variant 2, Hermeneutic Relations  
+<br>I-(technology-World)
 
-C>Variant 3, Alterity Relations  
-C>I-technology-(-World)[^780]
+Variant 3, Alterity Relations  
+<br>I-technology-(-World)[^780]
 
 [^780]: Ihde, *Technology and the Lifeworld*, 73, 87, 107. Slightly altered to preserve continuity in form with the intentional forms cited above.
 
