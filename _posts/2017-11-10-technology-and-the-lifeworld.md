@@ -96,13 +96,13 @@ At this point in the review, the radicality of Ihde's claims that I asserted abo
 
 [^779]: Ihde, *Technology and the Lifeworld*, 72.
 
-Variant 1, Embodiment Relations  
+Variant 1, Embodiment Relations
 <br>(I-technology)-World
 
-Variant 2, Hermeneutic Relations  
+Variant 2, Hermeneutic Relations
 <br>I-(technology-World)
 
-Variant 3, Alterity Relations  
+Variant 3, Alterity Relations
 <br>I-technology-(-World)[^780]
 
 [^780]: Ihde, *Technology and the Lifeworld*, 73, 87, 107. Slightly altered to preserve continuity in form with the intentional forms cited above.
