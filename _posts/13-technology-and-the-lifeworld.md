@@ -140,3 +140,7 @@ I have not spoken here of the concerns with which we are presented, because Ihde
 [^800]: Michel Foucault, *The History of Sexuality: An Introduction*, 1976, trans. Robert Hurley (New York, NY: Vintage Books, 1990); Giorgio Agamben, *Homo Sacer: Sovereign Power and Bare Life*, 1995, trans. Daniel Heller-Roazen (Stanford, CA: Stanford University Press, 1998).
 [^801]: Hans Jonas, "Technology and Responsibility," in *Philosophical Essays*, 3-20 (Englewood Cliffs, NJ: Prentice-Hall, 1974); Jean Baudrillard, *Simulacra and Simulation*, 1981, trans. Sheila Faria Glaser (Ann Arbor, MI: The University of Michigan Press, 1994).
 [^802]: Ihde, *Technology and the Lifeworld*, 162.
+
+<br>
+
+#### Notes
